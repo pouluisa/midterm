@@ -3,7 +3,7 @@
 <html>
 <head>
  <style>
- body {
+  body {
   color: white;
   background-image: url(http://wholesalefumigations.com/wp-content/uploads/2014/07/background-dark-wood-panel.jpg);
  }
