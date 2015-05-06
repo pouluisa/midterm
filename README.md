@@ -4,22 +4,23 @@
 <head>
  <style>
  body {
- color: white;
- background-image: url(http://wholesalefumigations.com/wp-content/uploads/2014/07/background-dark-wood-panel.jpg);
+  color: white;
+  background-image: url(http://wholesalefumigations.com/wp-content/uploads/2014/07/background-dark-wood-panel.jpg);
  }
  h1 {
- font-size: 48px;
- text-shadow: 0 2px 0 #c9c9c9;
- font-family: Geneva, Verdana, 'Lucida Sans', 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;
+  font-size: 48px;
+  text-shadow: 0 2px 0 #c9c9c9;
+  font-family: Geneva, Verdana, 'Lucida Sans', 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;
  }
  h1, h2, h3, h4 {
- text-transform: uppercase;
+  text-transform: uppercase;
  }
  a {
- color: #f06529;
+  color: #f06529;
  }
  </style>
 </head>
+
 <body>
  <section>
  <h1>
